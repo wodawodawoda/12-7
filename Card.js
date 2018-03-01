@@ -1,4 +1,3 @@
-var baseUrl = 'https://kodilla.com/pl/bootcamp-api';
 // KLASA KANBAN CARD
 function Card(id, name) {
 	var self = this;
